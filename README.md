@@ -3,7 +3,7 @@ This chat app allows users to sign up, log in, and chat instantly with other use
 
 **TECHNOLOGIES USED:**
 ✅ **Frontend**: React.js, Zustand (for state management)
-✅ **Backend**: Node.js, Express.js
+**Backend**: Node.js, Express.js
 ✅ **Database**: MongoDB 
 ✅ **Real-time Communication**: Socket.io
 ✅ **Authentication & Security**: JWT (JSON Web Token), bcrypt.js for password hashing
