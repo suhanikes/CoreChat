@@ -1,4 +1,5 @@
 **Overview**
+
 Our Real-Time Chat App is a modern and interactive messaging platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Socket.io for real-time communication. It offers a sleek UI/UX powered by TailwindCSS and DaisyUI.
 This chat app allows users to sign up, log in, and chat instantly with other users. It supports real-time messaging, online user status, authentication & authorization with JWT, and cloud-based media storage using Cloudinary. The global state is efficiently managed using Zustand, ensuring smooth user experience.
 
