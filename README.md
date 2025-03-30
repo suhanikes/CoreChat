@@ -11,28 +11,37 @@ This chat app allows users to sign up, log in, and chat instantly with other use
 **Database**: MongoDB 
 
 * **Real-time Communication**: Socket.io
-* 
+
 * **Authentication & Security**: JWT (JSON Web Token), bcrypt.js for password hashing
-* 
+
 * **UI & Styling: TailwindCSS**, DaisyUI
-* 
+
 * **Image & File Uploads**: Cloudinary
-* 
+
 * **Deployment**: Hosted on Render
-* 
+ 
 * **API Testing & Development**: Postman (for API testing)
-* 
+  
 
 **FEATURES:**
-✅ **User Authentication & Authorization** – Secure sign-up & login using JWT (JSON Web Tokens).
-✅ **Real-Time Messaging** – Instant chat functionality using Socket.io.
-✅ **Online User Status** – See who’s online in real time.
-✅ **Message Storage** – All chats are stored securely in MongoDB.
-✅ **Media Uploads** – Upload and send images via Cloudinary.
-✅ **Modern UI/UX** – Styled with TailwindCSS and DaisyUI.
-✅ **Global State** Management – Powered by Zustand for better performance.
-✅ **Light & Dark Mode** – Toggle between themes for a better user experience.
-✅ **Deployment**: Hosted on Render for easy and free deployment.
+
+* **User Authentication & Authorization** – Secure sign-up & login using JWT (JSON Web Tokens).
+  
+* **Real-Time Messaging** – Instant chat functionality using Socket.io.
+  
+* **Online User Status** – See who’s online in real time.
+  
+* **Message Storage** – All chats are stored securely in MongoDB.
+  
+* **Media Uploads** – Upload and send images via Cloudinary.
+
+* **Modern UI/UX** – Styled with TailwindCSS and DaisyUI.
+  
+* **Global State** Management – Powered by Zustand for better performance.
+
+* **Light & Dark Mode** – Toggle between themes for a better user experience.
+
+* **Deployment**: Hosted on Render for easy and free deployment.
 
 Getting Started- How to run this project on your local machine
 **Setup .env file**
